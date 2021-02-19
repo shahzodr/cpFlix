@@ -21,5 +21,3 @@ GIF created with [EZGIF](https://ezgif.com).
 
 ### Notes
 Flix is one of the first apps I have worked on and I encountered a technical problem with setting up the CocoaPods.
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/hnklVEv" data-context="false" ><a href="//imgur.com/a/hnklVEv"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
